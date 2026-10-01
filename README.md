@@ -24,4 +24,4 @@ I like turning raw data into tools people can actually use: dashboards, scoring 
 
 ## Contact
 
-📧 [tchomtchidaniel@gmail.com](mailto:tchomtchidaniel@gmail.com) · 📍 Yaoundé, Cameroon · French & English
+📧 [tchomtchidaniel@gmail.com](mailto:tchomtchidaniel@gmail.com) · 📍 Yaoundé, Cameroon
