@@ -7,7 +7,7 @@ I build Python tools that turn raw financial and operational data into something
 dashboards, controls, indicators and ready-to-share reports. I am especially interested in payment
 systems, banking data and decision support.
 
-> **En bref (FR)** — Étudiant en Master 1 Business Intelligence à l'IUSJ, titulaire d'une Licence en
+> **En bref**  Étudiant en Master 1 Business Intelligence à l'IUSJ, titulaire d'une Licence en
 > Management et Techniques Quantitatives (mémoire soutenu avec la mention « Excellent », septembre 2026).
 > Je développe des applications Python orientées analyse de données, automatisation et reporting,
 > en particulier pour la finance et les systèmes de paiement.
