@@ -40,6 +40,13 @@ systems, banking data and decision support.
 | [**depression-prediction-app**](https://github.com/Daniel-200600/depression-prediction-app) | Student depression risk score from lifestyle and academic factors (educational project). | scikit-learn, Streamlit |
 | [**iris-dashboard-ia9**](https://github.com/Daniel-200600/iris-dashboard-ia9) | Interactive exploration and species prediction on the Iris dataset. | Streamlit, seaborn |
 
+## Coding activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+Daily hours and work sessions: [work log](work-log/README.md) (updated every night from WakaTime).
+
 ## Skills
 
 **Used in my projects:** Python · pandas · NumPy · Streamlit · SQLite · scikit-learn · Plotly ·
