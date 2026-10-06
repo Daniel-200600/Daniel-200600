@@ -1,7 +1,7 @@
 # Daniel Tchomtchi
 
 **Master 1 Business Intelligence student · Data Analytics, Python & Financial Data**
-Yaoundé, Cameroon · [LinkedIn](https://www.linkedin.com/in/daniel-merlys-tchomtchi) · [tchomtchidaniel@gmail.com](mailto:tchomtchidaniel@gmail.com)
+Yaoundé, Cameroon · **[Portfolio](https://daniel-200600.github.io)** · [LinkedIn](https://www.linkedin.com/in/daniel-merlys-tchomtchi) · [tchomtchidaniel@gmail.com](mailto:tchomtchidaniel@gmail.com)
 
 I build Python tools that turn raw financial and operational data into something people can use:
 dashboards, controls, indicators and ready-to-share reports. I am especially interested in payment
