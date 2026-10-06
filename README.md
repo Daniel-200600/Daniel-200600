@@ -28,8 +28,8 @@ systems, banking data and decision support.
 | Project | What it does | Stack |
 |---|---|---|
 | [**dan-payment-risk-analysis**](https://github.com/Daniel-200600/dan-payment-risk-analysis) | Turns monthly payment-system reporting forms into risk scores, incident analysis and Word/PDF reports. Synthetic demo data, 200+ tests and CI. | Python, Streamlit, pandas, python-docx, pytest |
-| [**gestion-salaires**](https://github.com/Daniel-200600/gestion-salaires) | Teacher payroll management: pay-period cycle, payroll controls, Word payslips, Excel accounting exports, roles and audit trail. 1,300+ tests and CI. | Python, Streamlit, SQLite, openpyxl, python-docx, pytest |
-| [**consolidateur-liasses-paiements**](https://github.com/Daniel-200600/consolidateur-liasses-paiements) | Local app that consolidates multi-sheet Excel payment-statistics returns, computes indicators, draws charts and exports the results. Optional local LLM (Ollama) only labels template rows, never touches amounts. | Python, Streamlit, pandas, Plotly, openpyxl |
+| [**gestion-salaires**](https://github.com/Daniel-200600/gestion-salaires) | Teacher payroll management: pay-period cycle, payroll controls, Word payslips, Excel accounting exports, roles and audit trail. 1,600+ tests and CI. | Python, Streamlit, SQLite, openpyxl, python-docx, pytest |
+| [**consolidateur-liasses-paiements**](https://github.com/Daniel-200600/consolidateur-liasses-paiements) | Local app that consolidates multi-sheet Excel payment-statistics returns, computes indicators, draws charts and exports the results. 295 tests and CI. Optional local LLM (Ollama) only labels template rows, never touches amounts. | Python, Streamlit, pandas, Plotly, openpyxl |
 
 ### Machine-learning practice projects
 
